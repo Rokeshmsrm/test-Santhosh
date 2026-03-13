@@ -1,1 +1,1 @@
-Powershell Executionpolicy -Bypass
+Powershell Executionpolicy -Bypassdd
